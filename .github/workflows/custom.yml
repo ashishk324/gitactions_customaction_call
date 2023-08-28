@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: console6500/customactions@main
+      - uses: ashishk324/gitactions_customaction@main
